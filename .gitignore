@@ -1,0 +1,19 @@
+# Telegram login session (contains account access)
+*.session
+*.session-journal
+
+# Script output
+profile_songs/
+profile_songs.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
